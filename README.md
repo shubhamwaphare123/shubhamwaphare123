@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamwaphare123
-- 👀 I’m interested in embedded programmig
-- 🌱 I’m currently learning software verification and validation
+- 👀 I’m interested in Full stack development
+- 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me shubhamwafare66@gmail.com/9137386859
 
